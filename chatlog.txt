@@ -1,0 +1,11 @@
+Welcome to the chat: ${socket.name}
+Welcome to the chat: ${socket.name}
+Welcome to the chat: undefined
+Welcome to the chat: undefined
+Welcome to the chat: 1
+Welcome to the chat: 2
+Guest1: Has DisconnectedGuest2: hgyfgc
+Guest2: hgvhgf
+Guest2: hjgvhgfcv
+Guest2: Has DisconnectedGuest1: jhbkjbijb
+Guest1: 333333
